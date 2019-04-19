@@ -18,7 +18,6 @@ class App extends Component {
         <br/>
         <div>practice state class components</div>
         <MyProfile profileImg="../img/profile.jpg" title="My Profile" myname="Shendage" desc="Front End Engineer"/>
-
       </div>
     );
   }
